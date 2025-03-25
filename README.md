@@ -1,6 +1,7 @@
 # Retail-Trade-and-Food-Services-Trend-Forecasting
 
 **Project Overview**
+
 This project aims to leverage advanced time series analysis techniques to create a comprehensive framework for predicting trends in retail trade and food services across the United States. By employing various forecasting methods learned through coursework, we aim to build reliable models that can accurately predict future trends within these industries. The goal is to provide precise forecasts that will assist businesses, policymakers, and stakeholders in making informed decisions and strategic plans for the retail sector.
 
 **Key Findings**
