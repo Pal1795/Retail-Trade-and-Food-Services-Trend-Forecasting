@@ -35,3 +35,7 @@ Models were evaluated using the following accuracy metrics:
 
 **Best Performing Model**
 Based on evaluation metrics, the Auto ARIMA model emerged as the most effective model for forecasting retail sales trends in the trade and food services sectors.
+
+**Conclusion**
+The selected model is Auto ARIMA the optimal choice for forecasting. Following closely are Linear Trend and Seasonality with a Trailing Moving Average, and Quadratic Trend and Seasonality with a Trailing Moving Average. However, the Holt Winter Model is not considered among the top choices due to its limitation in handling seasonal components. As previously mentioned, it's imperative to re-evaluate the chosen model semi-annually to maintain accuracy in forecasting for upcoming fiscal periods.
+
