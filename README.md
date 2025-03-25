@@ -11,17 +11,17 @@ This project aims to leverage advanced time series analysis techniques to create
 
 **Methods**
 
-We applied a combination of the following time series forecasting models:
+Applied a combination of the following time series forecasting models:
 
 1. Regression-Based Models
- - We utilized both Linear and Quadratic Regression Models to capture the underlying trends.
+ - Utilized both Linear and Quadratic Regression Models to capture the underlying trends.
 
  - A Two-Level Forecasting method was employed to improve the regression models.
 
- - We incorporated a Trailing Moving Average for residuals to enhance the model's accuracy.
+ - Incorporated a Trailing Moving Average for residuals to enhance the model's accuracy.
 
 2. Advanced Exponential Smoothing Models
- - We implemented the Holt-Winters method to account for seasonality and trend in the data.
+ - Implemented the Holt-Winters method to account for seasonality and trend in the data.
 
  - Various variations of the model were tested to optimize performance.
 
