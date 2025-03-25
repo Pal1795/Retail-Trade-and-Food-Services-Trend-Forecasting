@@ -9,6 +9,7 @@ This project aims to leverage advanced time series analysis techniques to create
  - Autocorrelation: The data exhibits strong autocorrelation, with all 12 lags showing statistically significant autocorrelation coefficients.
 
 **Methods**
+
 We applied a combination of the following time series forecasting models:
 
 1. Regression-Based Models
@@ -27,6 +28,7 @@ We applied a combination of the following time series forecasting models:
  - Auto ARIMA was used for time series forecasting, which automatically selects the best ARIMA model based on the data.
 
 **Model Evaluation**
+
 Models were evaluated using the following accuracy metrics:
 
  - Root Mean Squared Error (RMSE)
@@ -34,8 +36,10 @@ Models were evaluated using the following accuracy metrics:
 - Mean Absolute Percentage Error (MAPE)
 
 **Best Performing Model**
+
 Based on evaluation metrics, the Auto ARIMA model emerged as the most effective model for forecasting retail sales trends in the trade and food services sectors.
 
 **Conclusion**
+
 The selected model is Auto ARIMA the optimal choice for forecasting. Following closely are Linear Trend and Seasonality with a Trailing Moving Average, and Quadratic Trend and Seasonality with a Trailing Moving Average. However, the Holt Winter Model is not considered among the top choices due to its limitation in handling seasonal components. As previously mentioned, it's imperative to re-evaluate the chosen model semi-annually to maintain accuracy in forecasting for upcoming fiscal periods.
 
